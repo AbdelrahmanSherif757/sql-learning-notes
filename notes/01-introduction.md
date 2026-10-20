@@ -55,4 +55,6 @@ SQL لغة، وليست قاعدة بيانات أو برنامج إدارة ق�
 
 ملحوظة: Create في CRUD معناها إضافة سجل، أما `CREATE TABLE` فهو أمر لإنشاء جدول.
 
-[الموضوع التالي: SELECT](02-select-clause.md)
+---
+
+[الفهرس](../README.md) · [بيانات الأمثلة](00-sample-data.md) · [التالي](02-select-clause.md)
